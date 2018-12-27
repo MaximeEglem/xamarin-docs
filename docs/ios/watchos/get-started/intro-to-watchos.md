@@ -122,11 +122,13 @@ For more information on Notification UI design, refer to the
 
 ## Screen Sizes
 
-The Apple Watch has two face sizes: 38mm and 42mm, both with a 5:4 display ratio,
-  and a Retina display. Their useable sizes are:
+The Apple Watch has four face sizes: 38mm and 42mm for Serie 1 to 3 and 40mm and 44mm for Serie 4, all with a 5:4 display ratio, and a Retina display.
+Their useable sizes are:
 
 - 38mm: 136 x 170 logical pixels (272 x 340 physical pixels)
-- 42mm: 156 x 195  logical pixels (312 x 390  physical pixels).
+- 40mm: 162 x 197 logical pixels (324 x 394 physical pixels)
+- 42mm: 156 x 195 logical pixels (312 x 390  physical pixels)
+- 44mm: 184 x 224 logical pixels (368 x 448 physical pixels)
 
 Use `WKInterfaceDevice.ScreenBounds` to determine on which
   display your Watch App is running.
