@@ -122,7 +122,7 @@ For more information on Notification UI design, refer to the
 
 ## Screen Sizes
 
-The Apple Watch has four face sizes: 38mm and 42mm for Serie 1 to 3 and 40mm and 44mm for Serie 4, all with a 5:4 display ratio, and a Retina display.
+The Apple Watch has four face sizes: 38mm and 42mm for Series 1 to 3 and 40mm and 44mm for Series 4, all with a 5:4 display ratio, and a Retina display.
 Their useable sizes are:
 
 - 38mm: 136 x 170 logical pixels (272 x 340 physical pixels)
